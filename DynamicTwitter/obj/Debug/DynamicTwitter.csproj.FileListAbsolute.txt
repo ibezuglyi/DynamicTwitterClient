@@ -1,0 +1,8 @@
+D:\projects\DynamicTwitter\DynamicTwitter\bin\Debug\DynamicTwitter.exe.config
+D:\projects\DynamicTwitter\DynamicTwitter\bin\Debug\DynamicTwitter.exe
+D:\projects\DynamicTwitter\DynamicTwitter\bin\Debug\DynamicTwitter.pdb
+D:\projects\DynamicTwitter\DynamicTwitter\bin\Debug\Newtonsoft.Json.dll
+D:\projects\DynamicTwitter\DynamicTwitter\bin\Debug\Newtonsoft.Json.xml
+D:\projects\DynamicTwitter\DynamicTwitter\obj\Debug\DynamicTwitter.csprojResolveAssemblyReference.cache
+D:\projects\DynamicTwitter\DynamicTwitter\obj\Debug\DynamicTwitter.exe
+D:\projects\DynamicTwitter\DynamicTwitter\obj\Debug\DynamicTwitter.pdb
